@@ -82,9 +82,9 @@ Summary Dataset Variables:
   - motion : The mean And std Measurements Of Interest For Each
              Activity Performed By Each Subject.
 
-    - Of The 561 Variables, Only The 66 That Ended With mean Or
-      std Were Selected For The Summary Dataset (In Alphabetical
-      Order):
+    - Of The 561 Variables, Only The 66 That Ended With mean() Or
+      std() In The Original Dataset Were Selected For The Summary 
+      Dataset (In Alphabetical Order):
 
       - fBodyAcc-mean-X
       - fBodyAcc-mean-Y
