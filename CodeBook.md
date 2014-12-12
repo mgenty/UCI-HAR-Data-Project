@@ -84,7 +84,7 @@ Summary Dataset Variables:
 
     - Of The 561 Variables, Only The 66 That Ended With mean() Or
       std() In The Original Dataset Were Selected For The Summary 
-      Dataset (In Alphabetical Order):
+      Dataset (Listed In Alphabetical Order):
 
       - fBodyAcc-mean-X
       - fBodyAcc-mean-Y
