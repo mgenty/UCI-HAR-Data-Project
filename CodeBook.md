@@ -12,8 +12,8 @@ Dataset Production Method:
 Dataset Origin:
 
 - UCI Machine Learning Repository:
-- Human Activity Recognition Using Smartphones Data Set
-- URL: http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones 
+  - Human Activity Recognition Using Smartphones Data Set
+  - URL: http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones 
 
 UCI HAR Master Dataset Information:
 
