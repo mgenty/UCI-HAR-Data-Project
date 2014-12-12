@@ -2,8 +2,11 @@ Codebook: UCI HAR Mean Std Average Dataset
 ==========================================
 
 Coursera:     Data Sciences => Getting And Cleaning Data Course Project
+---------
 Author:       Marc Genty
+-------
 Last Updated: 12Dec14
+-------------
 
 Dataset Production Method: 
 
