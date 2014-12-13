@@ -26,11 +26,11 @@ This Repository Consists Of The Following Files And Directories:
 
 - run_analysis.R : The Code That Is Used To Produce The Summary Dataset.
 
-- NOTE: There Is Some Duplication Of Information In The 
-        README.md, CodeBook.md, And run_analysis.R Files.
-        This Is Intentional So As To Provide Enough Context
-        Such That Each Of These Files Is Able To Stand Alone
-        Without Necessary Reference To The Other Files.
+NOTE: There Is Some Duplication Of Information In The 
+      README.md, CodeBook.md, And run_analysis.R Files.
+      This Is Intentional So As To Provide Enough Context
+      Such That Each Of These Files Is Able To Stand Alone
+      Without Necessary Reference To The Other Files.
         
 =============================================================================
 
