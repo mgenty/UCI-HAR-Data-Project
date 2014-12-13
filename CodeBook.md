@@ -70,21 +70,25 @@ Summary Dataset Variables:
   - activity : The Activity To Which The Motion 
                Relates Performed By The Subject.
 
-    - There Were 6 Activities Performed By The Subjects In The Study:
+    - There Were 6 Activities Performed By The Subjects In The Study.
 
-      - walking
-      - walking_upstairs
-      - walking_downstairs
-      - sitting
-      - standing
-      - laying
+      - 1) walking
+      - 2) walking_upstairs
+      - 3) walking_downstairs
+      - 4) sitting
+      - 5) standing
+      - 6) laying
 
   - motion : The mean And std Measurements Of Interest For Each
              Activity Performed By Each Subject.
 
     - Of The 561 Variables, Only The 66 That Ended With mean() Or
       std() In The Original Dataset Were Selected For The Summary 
-      Dataset (Listed In Alphabetical Order):
+      Dataset. Please Note That The Variables Are Listed In 
+      Alphabetical Order. Detailed Information About The Nature 
+      And Meaning Of These Variables Can Be Found At The UCI Web 
+      Site And The README.txt File That Comes With The HAR Dataset 
+      Zip File From This Web Site. 
 
       - fBodyAcc-mean-X
       - fBodyAcc-mean-Y
@@ -152,11 +156,6 @@ Summary Dataset Variables:
       - tGravityAcc-std-Z
       - tGravityAccMag-mean
       - tGravityAccMag-std
-      - Note: Detailed information about the nature and 
-              meaning of these variables can be found at 
-              the UCI web site and the README.txt file 
-              that comes with the HAR dataset zip file 
-              from this web site. 
 
   - average : The Average Of The Particular Motion For The Particular
               Activity For The Particular Subject Represented In This
