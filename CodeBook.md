@@ -3,7 +3,7 @@ Codebook: UCI HAR Mean Std Average Dataset
 
 - Coursera:     Data Sciences => Getting And Cleaning Data Course Project
 - Author:       Marc Genty
-- Last Updated: 12Dec14
+- Last Updated: 14Dec14
 
 ==========================================
 
@@ -87,8 +87,8 @@ Summary Dataset Variables:
       Dataset. Please Note That The Variables Are Listed In 
       Alphabetical Order. Detailed Information About The Nature 
       And Meaning Of These Variables Can Be Found At The UCI Web 
-      Site And The README.txt File That Comes With The HAR Dataset 
-      Zip File From This Web Site. 
+      Site And The README.txt And features_info.txt  Files That 
+      Come With The HAR Dataset Zip File From This Web Site. 
 
       - fBodyAcc-mean-X
       - fBodyAcc-mean-Y
