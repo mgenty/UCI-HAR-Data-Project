@@ -153,6 +153,11 @@ Summary Dataset Variables:
       - tGravityAccMag-mean
       - tGravityAccMag-std
 
+      - Detailed information about the nature and meaning 
+        of these variables can be found at the UCI web 
+        site and the README.txt file that comes with the 
+        HAR dataset zip file from this web site. 
+
   - average : The Average Of The Particular Motion For The Particular
               Activity For The Particular Subject Represented In This
               Particular Observation.
