@@ -84,11 +84,11 @@ Summary Dataset Variables:
 
     - Of The 561 Variables, Only The 66 That Ended With mean() Or std() 
       In The Original Dataset Were Selected For The Summary Dataset. 
-    - Please Note That The Variables Are Listed In Alphabetical Order. 
-    - Note Also That All Of These Variables Have Been Normalized Into 
+      Please Note That The Variables Are Listed In Alphabetical Order. 
+      Note Also That All Of These Variables Have Been Normalized Into 
       A -1 To 1 Range And Therefore Have No Units Associated With Them. 
       (Thanks To David Hood, Community TA For That Information!) 
-    - Detailed Information About The Nature And Meaning Of These 
+      Detailed Information About The Nature And Meaning Of These 
       Variables Can Be Found At The UCI Web Site And The README.txt 
       And features_info.txt  Files That Come With The HAR Dataset Zip 
       File From This Web Site. 
