@@ -91,7 +91,7 @@ Summary Dataset Variables:
       Detailed Information About The Nature And Meaning Of These 
       Variables Can Be Found At The UCI Web Site And The README.txt 
       And features_info.txt  Files That Come With The HAR Dataset Zip 
-      File From This Web Site. 
+      File From The Aforementioned  Web Site. 
 
       - fBodyAcc-mean-X
         - The Mean Of The Linear Acceleration Of The
