@@ -3,7 +3,7 @@ README: Coursera Johns Hopkins UCI HAR Data Project
 
 - Coursera:     Data Sciences => Getting And Cleaning Data Course Project
 - Author:       Marc Genty
-- Last Updated: 14Dec14
+- Last Updated: 16Dec14
 
 =============================================================================
 

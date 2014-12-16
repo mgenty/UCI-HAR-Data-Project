@@ -73,8 +73,8 @@ Summary Dataset Variables:
     - There Were 6 Activities Performed By The Subjects In The Study.
 
       - 1) walking
-      - 2) walking_upstairs
-      - 3) walking_downstairs
+      - 2) walkingUpstairs
+      - 3) walkingDownstairs
       - 4) sitting
       - 5) standing
       - 6) laying

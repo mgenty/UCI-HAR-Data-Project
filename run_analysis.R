@@ -138,7 +138,7 @@ ColsOfInterest <- c(1, 2, XCols)
 # Subset The Full Data Frame Into Just The Columns Of Interest:
 MeanStdDF <- UciHarDF[, ColsOfInterest]
 
-# Clean Up The Column Names:
+# Clean Up The Motion Names:
 names(MeanStdDF) <- gsub("-",     "",      names(MeanStdDF))
 names(MeanStdDF) <- sub("[(][)]", "",      names(MeanStdDF))
 names(MeanStdDF) <- sub("^t",     "time",  names(MeanStdDF))
@@ -146,8 +146,10 @@ names(MeanStdDF) <- sub("^f",     "freq",  names(MeanStdDF))
 names(MeanStdDF) <- sub("std",    "Std",   names(MeanStdDF))
 names(MeanStdDF) <- sub("mean",   "Mean",  names(MeanStdDF))
 
-# Convert Activities To Lower Case:
+# Clean Up The Activity Names:
 MeanStdDF$activity <- tolower(MeanStdDF$activity)
+MeanStdDF$activity <- sub("_u", "U", MeanStdDF$activity)
+MeanStdDF$activity <- sub("_d", "D", MeanStdDF$activity)
 
 # ==========================================================================
 # Tidy The Data Frame And Compute The Averages:
