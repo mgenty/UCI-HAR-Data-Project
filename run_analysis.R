@@ -16,7 +16,7 @@
 #
 # Coursera:     Data Sciences => Getting And Cleaning Data Course Project
 # Author:       Marc Genty
-# Last Updated: 12Dec14
+# Last Updated: 16Dec14
 #
 
 # Load Required Packages:
@@ -138,8 +138,13 @@ ColsOfInterest <- c(1, 2, XCols)
 # Subset The Full Data Frame Into Just The Columns Of Interest:
 MeanStdDF <- UciHarDF[, ColsOfInterest]
 
-# Get Rid Of The Parentheses From The Column Names:
-names(MeanStdDF) <- sub("[(][)]","", names(MeanStdDF))
+# Clean Up The Column Names:
+names(MeanStdDF) <- gsub("-",     "",      names(MeanStdDF))
+names(MeanStdDF) <- sub("[(][)]", "",      names(MeanStdDF))
+names(MeanStdDF) <- sub("^t",     "time",  names(MeanStdDF))
+names(MeanStdDF) <- sub("^f",     "freq",  names(MeanStdDF))
+names(MeanStdDF) <- sub("std",    "Std",   names(MeanStdDF))
+names(MeanStdDF) <- sub("mean",   "Mean",  names(MeanStdDF))
 
 # Convert Activities To Lower Case:
 MeanStdDF$activity <- tolower(MeanStdDF$activity)

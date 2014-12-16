@@ -81,6 +81,7 @@ Detailed run_analysis.R Algorithm Description:
   - Combine The Test And Train Data Frames Into A Single Master Data Frame.
   - Subset The Master Data Frame To Just The Motion Attibutes Of Interest.
     - i.e., Those Attributes With -mean() Or -std() In Their Names.
+  - Clean Up The Names Of The Activities And Motions.
   - Melt The New Data Frame On The Motion Variable.
   - Group The Resulting Data Frame By Subject, Activity, & Motion.
   - Compute The Average For Each Subject / Activity / Motion Combination.

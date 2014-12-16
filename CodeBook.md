@@ -3,7 +3,7 @@ Codebook: UCI HAR Mean Std Average Dataset
 
 - Coursera:     Data Sciences => Getting And Cleaning Data Course Project
 - Author:       Marc Genty
-- Last Updated: 15Dec14
+- Last Updated: 16Dec14
 
 ==========================================
 
@@ -93,212 +93,212 @@ Summary Dataset Variables:
       And features_info.txt  Files That Come With The HAR Dataset Zip 
       File From The Aforementioned  Web Site. 
 
-      - fBodyAcc-mean-X
+      - freqBodyAccMeanX
         - The Mean Of The Linear Acceleration Of The
           Motion Along The X-Axis In The Frequency Domain
-      - fBodyAcc-mean-Y
+      - freqBodyAccMeanY
         - The Mean Of The Linear Acceleration Of The
           Motion Along The Y-Axis In The Frequency Domain
-      - fBodyAcc-mean-Z
+      - freqBodyAccMean-Z
         - The Mean Of The Linear Acceleration Of The
           Motion Along The Z-Axis In The Frequency Domain
-      - fBodyAcc-std-X
+      - freqBodyAccStdX
         - The Standard Deviation Of The Linear Acceleration Of The
           Motion Along The X-Axis In The Frequency Domain
-      - fBodyAcc-std-Y
+      - freqBodyAccStdY
         - The Standard Deviation Of The Linear Acceleration Of The
           Motion Along The Y-Axis In The Frequency Domain
-      - fBodyAcc-std-Z
+      - freqBodyAccStd-Z
         - The Standard Deviation Of The Linear Acceleration Of The
           Motion Along The Z-Axis In The Frequency Domain
-      - fBodyAccJerk-mean-X
+      - freqBodyAccJerkMeanX
         - The Mean Of The Linear Acceleration Of The Jerk
           Motion Along The X-Axis In The Frequency Domain
-      - fBodyAccJerk-mean-Y
+      - freqBodyAccJerkMeanY
         - The Mean Of The Linear Acceleration Of The Jerk
           Motion Along The Y-Axis In The Frequency Domain
-      - fBodyAccJerk-mean-Z
+      - freqBodyAccJerkMean-Z
         - The Mean Of The Linear Acceleration Of The Jerk
           Motion Along The Z-Axis In The Frequency Domain
-      - fBodyAccJerk-std-X
+      - freqBodyAccJerkStdX
         - The Standard Deviation Of The Linear Acceleration Of 
           The Jerk Motion Along The X-Axis In The Frequency Domain
-      - fBodyAccJerk-std-Y
+      - freqBodyAccJerkStdY
         - The Standard Deviation Of The Linear Acceleration Of 
           The Jerk Motion Along The Y-Axis In The Frequency Domain
-      - fBodyAccJerk-std-Z
+      - freqBodyAccJerkStd-Z
         - The Standard Deviation Of The Linear Acceleration Of 
           The Jerk Motion Along The Z-Axis In The Frequency Domain
-      - fBodyAccMag-mean
+      - freqBodyAccMagMean
         - The Mean Of The Linear Acceleration Of The Motion With
           Fast Fourier Transform (FFT) Applied In The Frequency Domain
-      - fBodyAccMag-std
+      - freqBodyAccMagStd
         - The Standard Deviation Of The Linear Acceleration Of The 
           Motion With Fast Fourier Transform (FFT) Applied In The 
           Frequency Domain
-      - fBodyBodyAccJerkMag-mean
+      - freqBodyBodyAccJerkMagMean
         - The Mean Of The Linear Acceleration Of The Jerk Motion With
           Fast Fourier Transform (FFT) Applied In The Frequency Domain
-      - fBodyBodyAccJerkMag-std
+      - freqBodyBodyAccJerkMagStd
         - The Standard Deviation Of The Linear Acceleration Of The 
           Jerk Motion With Fast Fourier Transform (FFT) Applied In 
           The Frequency Domain
-      - fBodyBodyGyroJerkMag-mean
+      - freqBodyBodyGyroJerkMagMean
         - The Mean Of The Angular Velocity Of The Jerk Motion With
           Fast Fourier Transform (FFT) Applied In The Frequency Domain
-      - fBodyBodyGyroJerkMag-std
+      - freqBodyBodyGyroJerkMagStd
         - The Standard Deviation Of The Angular Velocity  Of The 
           Jerk Motion With Fast Fourier Transform (FFT) Applied In 
           The Frequency Domain
-      - fBodyBodyGyroMag-mean
+      - freqBodyBodyGyroMagMean
         - The Mean Of The Angular Velocity Of The Euclidean 
           Normalized Motion With Fast Fourier Transform (FFT) 
           Applied In The Frequency Domain
-      - fBodyBodyGyroMag-std
+      - freqBodyBodyGyroMagStd
         - The Standard Deviation Of The Angular Velocity Of 
           The Euclidean Normalized Motion With Fast Fourier 
           Transform (FFT) Applied In The Frequency Domain
-      - fBodyGyro-mean-X
+      - freqBodyGyroMeanX
         - The Mean Of The Angular Velocity Of The
           Motion Along The X-Axis In The Frequency Domain
-      - fBodyGyro-mean-Y
+      - freqBodyGyroMeanY
         - The Mean Of The Angular Velocity Of The
           Motion Along The Y-Axis In The Frequency Domain
-      - fBodyGyro-mean-Z
+      - freqBodyGyroMean-Z
         - The Mean Of The Angular Velocity Of The
           Motion Along The Z-Axis In The Frequency Domain
-      - fBodyGyro-std-X
+      - freqBodyGyroStdX
         - The Standard Deviation Of The Angular Velocity Of 
           The Motion Along The X-Axis In The Frequency Domain
-      - fBodyGyro-std-Y
+      - freqBodyGyroStdY
         - The Standard Deviation Of The Angular Velocity Of 
           The Motion Along The Y-Axis In The Frequency Domain
-      - fBodyGyro-std-Z
+      - freqBodyGyroStd-Z
         - The Standard Deviation Of The Angular Velocity Of 
           The Motion Along The Z-Axis In The Frequency Domain
-      - tBodyAcc-mean-X
+      - timeBodyAccMeanX
         - The Mean Of The Linear Acceleration Of The
           Motion Along The X-Axis In The Time Domain
-      - tBodyAcc-mean-Y
+      - timeBodyAccMeanY
         - The Mean Of The Linear Acceleration Of The
           Motion Along The Y-Axis In The Time Domain
-      - tBodyAcc-mean-Z
+      - timeBodyAccMean-Z
         - The Mean Of The Linear Acceleration Of The
           Motion Along The Z-Axis In The Time Domain
-      - tBodyAcc-std-X
+      - timeBodyAccStdX
         - The Standard Deviation Of The Linear Acceleration 
           Of The Motion Along The X-Axis In The Time Domain
-      - tBodyAcc-std-Y
+      - timeBodyAccStdY
         - The Standard Deviation Of The Linear Acceleration 
           Of The Motion Along The Y-Axis In The Time Domain
-      - tBodyAcc-std-Z
+      - timeBodyAccStd-Z
         - The Standard Deviation Of The Linear Acceleration 
           Of The Motion Along The Z-Axis In The Time Domain
-      - tBodyAccJerk-mean-X
+      - timeBodyAccJerkMeanX
         - The Mean Of The Linear Acceleration Of The
           Jerk Motion Along The X-Axis In The Time Domain
-      - tBodyAccJerk-mean-Y
+      - timeBodyAccJerkMeanY
         - The Mean Of The Linear Acceleration Of The
           Jerk Motion Along The Y-Axis In The Time Domain
-      - tBodyAccJerk-mean-Z
+      - timeBodyAccJerkMean-Z
         - The Mean Of The Linear Acceleration Of The
           Jerk Motion Along The Z-Axis In The Time Domain
-      - tBodyAccJerk-std-X
+      - timeBodyAccJerkStdX
         - The Standard Deviation Of The Linear Acceleration 
           Of The Jerk Motion Along The X-Axis In The Time Domain
-      - tBodyAccJerk-std-Y
+      - timeBodyAccJerkStdY
         - The Standard Deviation Of The Linear Acceleration 
           Of The Jerk Motion Along The Y-Axis In The Time Domain
-      - tBodyAccJerk-std-Z
+      - timeBodyAccJerkStd-Z
         - The Standard Deviation Of The Linear Acceleration 
           Of The Jerk Motion Along The Z-Axis In The Time Domain
-      - tBodyAccJerkMag-mean
+      - timeBodyAccJerkMagMean
         - The Mean Of The Linear Acceleration Of The Motion With
           Fast Fourier Transform (FFT) Applied In The Time Domain
-      - tBodyAccJerkMag-std
+      - timeBodyAccJerkMagStd
         - The Standard Deviation Of The Linear Acceleration Of The 
           Jerk Motion With Fast Fourier Transform (FFT) Applied In 
           The Time Domain
-      - tBodyAccMag-mean
+      - timeBodyAccMagMean
         - The Mean Of The Linear Acceleration Of The Motion With
           Fast Fourier Transform (FFT) Applied In The Time Domain
-      - tBodyAccMag-std
+      - timeBodyAccMagStd
         - The Standard Deviation Of The Linear Acceleration Of The 
           Motion With Fast Fourier Transform (FFT) Applied In The 
           Time Domain
-      - tBodyGyro-mean-X
+      - timeBodyGyroMeanX
         - The Mean Of The Angular Velocity Of The
           Motion Along The X-Axis In The Time Domain
-      - tBodyGyro-mean-Y
+      - timeBodyGyroMeanY
         - The Mean Of The Angular Velocity Of The
           Motion Along The Y-Axis In The Time Domain
-      - tBodyGyro-mean-Z
+      - timeBodyGyroMean-Z
         - The Mean Of The Angular Velocity Of The
           Motion Along The Z-Axis In The Time Domain
-      - tBodyGyro-std-X
+      - timeBodyGyroStdX
         - The Standard Deviation Of The Angular Velocity 
           Of The Motion Along The X-Axis In The Time Domain
-      - tBodyGyro-std-Y
+      - timeBodyGyroStdY
         - The Standard Deviation Of The Angular Velocity 
           Of The Motion Along The Y-Axis In The Time Domain
-      - tBodyGyro-std-Z
+      - timeBodyGyroStd-Z
         - The Standard Deviation Of The Angular Velocity 
           Of The Motion Along The Z-Axis In The Time Domain
-      - tBodyGyroJerk-mean-X
+      - timeBodyGyroJerkMeanX
         - The Mean Of The Angular Velocity Of The Jerk
           Motion Along The X-Axis In The Time Domain
-      - tBodyGyroJerk-mean-Y
+      - timeBodyGyroJerkMeanY
         - The Mean Of The Angular Velocity Of The Jerk
           Motion Along The Y-Axis In The Time Domain
-      - tBodyGyroJerk-mean-Z
+      - timeBodyGyroJerkMean-Z
         - The Mean Of The Angular Velocity Of The Jerk
           Motion Along The Z-Axis In The Time Domain
-      - tBodyGyroJerk-std-X
+      - timeBodyGyroJerkStdX
         - The Standard Deviation Of The Angular Velocity Of 
           The Jerk Motion Along The X-Axis In The Time Domain
-      - tBodyGyroJerk-std-Y
+      - timeBodyGyroJerkStdY
         - The Standard Deviation Of The Angular Velocity Of 
           The Jerk Motion Along The Y-Axis In The Time Domain
-      - tBodyGyroJerk-std-Z
+      - timeBodyGyroJerkStd-Z
         - The Standard Deviation Of The Angular Velocity Of 
           The Jerk Motion Along The Z-Axis In The Time Domain
-      - tBodyGyroJerkMag-mean
+      - timeBodyGyroJerkMagMean
         - The Mean Of The Angular Velocity Of The Jerk Motion With
           Fast Fourier Transform (FFT) Applied In The Time Domain
-      - tBodyGyroJerkMag-std
+      - timeBodyGyroJerkMagStd
         - The Standard Deviation Of The Angular Velocity Of The 
           Jerk Motion With Fast Fourier Transform (FFT) Applied 
           In The Time Domain
-      - tBodyGyroMag-mean
+      - timeBodyGyroMagMean
         - The Mean Of The Angular Velocity Of The Motion With
           Fast Fourier Transform (FFT) Applied In The Time Domain
-      - tBodyGyroMag-std
+      - timeBodyGyroMagStd
         - The Standard Deviation Of The Angular Velocity Of The 
           Motion With Fast Fourier Transform (FFT) Applied 
           In The Time Domain
-      - tGravityAcc-mean-X
+      - timeGravityAccMeanX
         - The Mean Of The Linear Acceleration Due To
           Gravity Along The X-Axis In The Time Domain
-      - tGravityAcc-mean-Y
+      - timeGravityAccMeanY
         - The Mean Of The Linear Acceleration Due To
           Gravity Along The Y-Axis In The Time Domain
-      - tGravityAcc-mean-Z
+      - timeGravityAccMean-Z
         - The Mean Of The Linear Acceleration Due To
           Gravity Along The Z-Axis In The Time Domain
-      - tGravityAcc-std-X
+      - timeGravityAccStdX
         - The Standard Deviation Of The Linear Acceleration 
           Due To Gravity Along The X-Axis In The Time Domain
-      - tGravityAcc-std-Y
+      - timeGravityAccStdY
         - The Standard Deviation Of The Linear Acceleration 
           Due To Gravity Along The Y-Axis In The Time Domain
-      - tGravityAcc-std-Z
+      - timeGravityAccStd-Z
         - The Standard Deviation Of The Linear Acceleration 
           Due To Gravity Along The Z-Axis In The Time Domain
-      - tGravityAccMag-mean
+      - timeGravityAccMagMean
         - The Mean Of The Linear Acceleration Of The Euclidean 
           Normalized Gravitational Component With Fast Fourier 
           Transform (FFT) Applied In The Time Domain
-      - tGravityAccMag-std
+      - timeGravityAccMagStd
         - The Standard Deviation  Of The Linear Acceleration Of 
           The Euclidean Normalized Gravitational Component With 
           Fast Fourier Transform (FFT) Applied In The Time Domain
