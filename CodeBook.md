@@ -99,7 +99,7 @@ Summary Dataset Variables:
       - freqBodyAccMeanY
         - The Mean Of The Linear Acceleration Of The
           Motion Along The Y-Axis In The Frequency Domain
-      - freqBodyAccMean-Z
+      - freqBodyAccMeanZ
         - The Mean Of The Linear Acceleration Of The
           Motion Along The Z-Axis In The Frequency Domain
       - freqBodyAccStdX
@@ -108,7 +108,7 @@ Summary Dataset Variables:
       - freqBodyAccStdY
         - The Standard Deviation Of The Linear Acceleration Of The
           Motion Along The Y-Axis In The Frequency Domain
-      - freqBodyAccStd-Z
+      - freqBodyAccStdZ
         - The Standard Deviation Of The Linear Acceleration Of The
           Motion Along The Z-Axis In The Frequency Domain
       - freqBodyAccJerkMeanX
@@ -117,7 +117,7 @@ Summary Dataset Variables:
       - freqBodyAccJerkMeanY
         - The Mean Of The Linear Acceleration Of The Jerk
           Motion Along The Y-Axis In The Frequency Domain
-      - freqBodyAccJerkMean-Z
+      - freqBodyAccJerkMeanZ
         - The Mean Of The Linear Acceleration Of The Jerk
           Motion Along The Z-Axis In The Frequency Domain
       - freqBodyAccJerkStdX
@@ -126,7 +126,7 @@ Summary Dataset Variables:
       - freqBodyAccJerkStdY
         - The Standard Deviation Of The Linear Acceleration Of 
           The Jerk Motion Along The Y-Axis In The Frequency Domain
-      - freqBodyAccJerkStd-Z
+      - freqBodyAccJerkStdZ
         - The Standard Deviation Of The Linear Acceleration Of 
           The Jerk Motion Along The Z-Axis In The Frequency Domain
       - freqBodyAccMagMean
@@ -164,7 +164,7 @@ Summary Dataset Variables:
       - freqBodyGyroMeanY
         - The Mean Of The Angular Velocity Of The
           Motion Along The Y-Axis In The Frequency Domain
-      - freqBodyGyroMean-Z
+      - freqBodyGyroMeanZ
         - The Mean Of The Angular Velocity Of The
           Motion Along The Z-Axis In The Frequency Domain
       - freqBodyGyroStdX
@@ -173,7 +173,7 @@ Summary Dataset Variables:
       - freqBodyGyroStdY
         - The Standard Deviation Of The Angular Velocity Of 
           The Motion Along The Y-Axis In The Frequency Domain
-      - freqBodyGyroStd-Z
+      - freqBodyGyroStdZ
         - The Standard Deviation Of The Angular Velocity Of 
           The Motion Along The Z-Axis In The Frequency Domain
       - timeBodyAccMeanX
@@ -182,7 +182,7 @@ Summary Dataset Variables:
       - timeBodyAccMeanY
         - The Mean Of The Linear Acceleration Of The
           Motion Along The Y-Axis In The Time Domain
-      - timeBodyAccMean-Z
+      - timeBodyAccMeanZ
         - The Mean Of The Linear Acceleration Of The
           Motion Along The Z-Axis In The Time Domain
       - timeBodyAccStdX
@@ -191,7 +191,7 @@ Summary Dataset Variables:
       - timeBodyAccStdY
         - The Standard Deviation Of The Linear Acceleration 
           Of The Motion Along The Y-Axis In The Time Domain
-      - timeBodyAccStd-Z
+      - timeBodyAccStdZ
         - The Standard Deviation Of The Linear Acceleration 
           Of The Motion Along The Z-Axis In The Time Domain
       - timeBodyAccJerkMeanX
@@ -200,7 +200,7 @@ Summary Dataset Variables:
       - timeBodyAccJerkMeanY
         - The Mean Of The Linear Acceleration Of The
           Jerk Motion Along The Y-Axis In The Time Domain
-      - timeBodyAccJerkMean-Z
+      - timeBodyAccJerkMeanZ
         - The Mean Of The Linear Acceleration Of The
           Jerk Motion Along The Z-Axis In The Time Domain
       - timeBodyAccJerkStdX
@@ -209,7 +209,7 @@ Summary Dataset Variables:
       - timeBodyAccJerkStdY
         - The Standard Deviation Of The Linear Acceleration 
           Of The Jerk Motion Along The Y-Axis In The Time Domain
-      - timeBodyAccJerkStd-Z
+      - timeBodyAccJerkStdZ
         - The Standard Deviation Of The Linear Acceleration 
           Of The Jerk Motion Along The Z-Axis In The Time Domain
       - timeBodyAccJerkMagMean
@@ -232,7 +232,7 @@ Summary Dataset Variables:
       - timeBodyGyroMeanY
         - The Mean Of The Angular Velocity Of The
           Motion Along The Y-Axis In The Time Domain
-      - timeBodyGyroMean-Z
+      - timeBodyGyroMeanZ
         - The Mean Of The Angular Velocity Of The
           Motion Along The Z-Axis In The Time Domain
       - timeBodyGyroStdX
@@ -241,7 +241,7 @@ Summary Dataset Variables:
       - timeBodyGyroStdY
         - The Standard Deviation Of The Angular Velocity 
           Of The Motion Along The Y-Axis In The Time Domain
-      - timeBodyGyroStd-Z
+      - timeBodyGyroStdZ
         - The Standard Deviation Of The Angular Velocity 
           Of The Motion Along The Z-Axis In The Time Domain
       - timeBodyGyroJerkMeanX
@@ -250,7 +250,7 @@ Summary Dataset Variables:
       - timeBodyGyroJerkMeanY
         - The Mean Of The Angular Velocity Of The Jerk
           Motion Along The Y-Axis In The Time Domain
-      - timeBodyGyroJerkMean-Z
+      - timeBodyGyroJerkMeanZ
         - The Mean Of The Angular Velocity Of The Jerk
           Motion Along The Z-Axis In The Time Domain
       - timeBodyGyroJerkStdX
@@ -259,7 +259,7 @@ Summary Dataset Variables:
       - timeBodyGyroJerkStdY
         - The Standard Deviation Of The Angular Velocity Of 
           The Jerk Motion Along The Y-Axis In The Time Domain
-      - timeBodyGyroJerkStd-Z
+      - timeBodyGyroJerkStdZ
         - The Standard Deviation Of The Angular Velocity Of 
           The Jerk Motion Along The Z-Axis In The Time Domain
       - timeBodyGyroJerkMagMean
@@ -282,7 +282,7 @@ Summary Dataset Variables:
       - timeGravityAccMeanY
         - The Mean Of The Linear Acceleration Due To
           Gravity Along The Y-Axis In The Time Domain
-      - timeGravityAccMean-Z
+      - timeGravityAccMeanZ
         - The Mean Of The Linear Acceleration Due To
           Gravity Along The Z-Axis In The Time Domain
       - timeGravityAccStdX
@@ -291,7 +291,7 @@ Summary Dataset Variables:
       - timeGravityAccStdY
         - The Standard Deviation Of The Linear Acceleration 
           Due To Gravity Along The Y-Axis In The Time Domain
-      - timeGravityAccStd-Z
+      - timeGravityAccStdZ
         - The Standard Deviation Of The Linear Acceleration 
           Due To Gravity Along The Z-Axis In The Time Domain
       - timeGravityAccMagMean
