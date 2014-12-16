@@ -82,7 +82,7 @@ Summary Dataset Variables:
   - motion : The mean And std Measurements Of Interest For Each
              Activity Performed By Each Subject.
 
-    - Of The 561 Variables, Only The 66 That Had -mean() Or std() 
+    - Of The 561 Variables, Only The 66 That Had -mean() Or -std() 
       In Their Names In The Original Dataset Were Selected For The 
       Summary Dataset. Please Note That The Variables Are Listed In 
       Alphabetical Order. Note Also That All Of These Variables Have 
