@@ -3,7 +3,7 @@ Codebook: UCI HAR Mean Std Average Dataset
 
 - Coursera:     Data Sciences => Getting And Cleaning Data Course Project
 - Author:       Marc Genty
-- Last Updated: 16Dec14
+- Last Updated: 18Dec14
 
 ==========================================
 
@@ -33,7 +33,7 @@ UCI HAR Master Dataset Information:
 - Attribute Information:
 
   For Each Record In The Dataset It Is Provided: 
-  - Triaxial Acceleration From The Accelerometer (total Acceleration) 
+  - Triaxial Acceleration From The Accelerometer (Total Acceleration) 
     And The Estimated Body Acceleration. 
   - Triaxial Angular Velocity From The Gyroscope. 
   - A 561-Feature Vector With Time And Frequency Domain Variables. 
